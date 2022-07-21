@@ -1,8 +1,0 @@
-%{
-  "decimal": {:hex, :decimal, "2.0.0", "a78296e617b0f5dd4c6caf57c714431347912ffb1d0842e998e9792b5642d697", [:mix], [], "hexpm", "34666e9c55dea81013e77d9d87370fe6cb6291d1ef32f46a1600230b1d44f577"},
-  "global_variable": {:hex, :global_variable, "0.1.1", "6df6a18c0e92c30b8e8e5a3d1c89d17f4381a728ada2a5ca3ed61e32d5144620", [:mix], [], "hexpm", "a130c00e1f0427cfb6a3d72797dbe6db98358a8fc27788752d7d46ab611b2284"},
-  "poison": {:hex, :poison, "5.0.0", "d2b54589ab4157bbb82ec2050757779bfed724463a544b6e20d79855a9e43b24", [:mix], [{:decimal, "~> 2.0", [hex: :decimal, repo: "hexpm", optional: true]}], "hexpm", "11dc6117c501b80c62a7594f941d043982a1bd05a1184280c0d9166eb4d8d3fc"},
-  "rb_tree": {:hex, :rb_tree, "1.0.0", "ceb889a283a3799b72f36336a9a54d1e1675a0d7d6481b394f53df2f1a3f9c90", [:mix], [], "hexpm", "8750bb633bf74406fb5d2659a6b3a2872d47cd60ef3a457a2da90c2cf10280c1"},
-  "rbtree": {:hex, :rbtree, "0.1.6", "879252e571c606ab02219a95389e1d2f5a21de8bb15fa2709c1f5106dd50d05b", [:mix], [], "hexpm", "1505eb0c055dff4c2a5a5b6fbceeddddd19231ee7e410bb252dff7524652f7a1"},
-  "red_black_tree": {:hex, :red_black_tree, "1.2.0", "710776dc25a6f7a9cf19bc1fa15c2587fce6af180cb70a4ed0b1e6af93c1eb29", [:mix], [], "hexpm", "1e8e7b85d075e249f9384ba0fcd2aacbff3697a5cb3cb5c9838c86f762b79725"},
-}
